@@ -1,5 +1,5 @@
 // Require datejs (must be at the top)
-import 'datejs';
+require('datejs');
 
 function combineUsers(...args) {
     // Step 1: Initialize return object with users array
